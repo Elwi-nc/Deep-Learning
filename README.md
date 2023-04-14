@@ -4,7 +4,7 @@ Bloc 4 : Analyse prédictive de données non-structurées par l'intelligence art
 
 Luca Laborde - luca.laborde@gmail.com
 
-Lien de la vidéo :
+Lien de la vidéo : https://share.vidyard.com/watch/bFTTmw2vdtmmeAmLRVtiuo?
 
 ## AT&T Spam Detector
 
